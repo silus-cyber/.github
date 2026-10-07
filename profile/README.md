@@ -17,9 +17,9 @@ Silus builds security products and delivers services for teams that can't afford
 
 | | |
 |---|---|
-| [Canary](https://silus.us/products/canary) | Vulnerability management built for airgapped networks |
-| [Teardown](https://silus.us/products/teardown) | Find evidence of compromise in device and server data |
-| [Samscope](https://silus.us/products/samscope) | Federal contract opportunities, scored for your company |
+| [Canary](https://silus.us/products/canary) | Vulnerability management and network discovery |
+| [Teardown](https://silus.us/products/teardown) | Host and network-based threat hunt analysis |
+| [Samscope](https://silus.us/products/samscope) | GovCon opportunities aggregated, simplified, and scored to your needs |
 
 ### Security
 
